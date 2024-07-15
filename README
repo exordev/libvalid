@@ -1,0 +1,13 @@
+libcc
+=====
+	cache lib.
+
+depends on
+----------
+	* c
+	* libc
+	* sqlite3
+
+license
+-------
+	isc
