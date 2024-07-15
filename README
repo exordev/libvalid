@@ -1,12 +1,11 @@
-libcc
-=====
-	cache lib.
+libvalid
+========
+	valid lib.
 
 depends on
 ----------
 	* c
 	* libc
-	* sqlite3
 
 license
 -------
